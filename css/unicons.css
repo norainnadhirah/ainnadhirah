@@ -55,6 +55,8 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
+.uil-github:before { content: '\e821'; } /* Replace '\e821' with the actual value for GitHub */
+.uil-linkedin:before { content: '\e827'; } /* Replace '\e827' with the actual value for LinkedIn */
 .uil-abacus:before { content: '\e800'; } /* '' */
 .uil-accessible-icon-alt:before { content: '\e801'; } /* '' */
 .uil-adjust-alt:before { content: '\e802'; } /* '' */
